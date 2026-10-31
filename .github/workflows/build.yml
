@@ -30,8 +30,3 @@ jobs:
       with:
         name: lrp-music-apk
         path: app/build/outputs/apk/debug/lrp-music-apk.apk
-
-
-    
-        name: lrp-music-apk
-        path: app/build/outputs/apk/debug/lrp-music-apk.apk
